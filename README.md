@@ -46,11 +46,11 @@ A small sample dataset (list_of_storm_details_sample.csv) is included for testin
 1. Clone this repository:
 ```bash
 git clone https://github.com/yourusername/storm-damage-predictor
-cd storm-damage-predictor
+cd storm-damage-predictor```
 Install required libraries:
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 Run the project:
-python user_interface.py
+```python user_interface.py```
 
 ---
 
